@@ -3,6 +3,8 @@ CalendarApp repo
 
 Clone Clone this repo to your local machine using https://github.com/tarikamali/CalendarApp.git
 
+Install Java 1.8
+
 Run maven project from cucumber runner testRunner or from scenario
 
 report is in ..\build\cucumber\ExtendedReport folder
@@ -14,3 +16,4 @@ change the variable from config.properties file test data is in config_test.prop
 # prerequisite
 1. emulator-5554 available and started
 2. Appium installed and started
+
